@@ -58,43 +58,57 @@ In the current scenario, advancements in technologies are such that they can per
 ![This is an image]('/../img/1.png)
 
 <hr>
+
 ###### Current time:
+
   - Command: `What is the time`
 
 ![This is an image]('/../img/5.png)
 
 <hr>
+
 ###### Temperature:
+
   - Command: `what is the temperature of <place name>`
 
 ![This is an image]('/../img/2.png)
 
 <hr>
+
 ###### Open any application
+
   - Command: `open <application name>`
 
 ![This is an image]('/../img/4.png)
 
 <hr>
+
 ###### Search on Wikipedia
+
   - Command: `search python on Wikipedia`
 
 ![This is an image]('/../img/6.png)
 
 <hr>
+
 ###### Send Text Message:
+
   - Command: `send text message to <name of person>`
 
 ![This is an image]('/../img/7.png)
 
 <hr>
+
 ###### Send WhatsApp Message:
+
   - Command: `send WhatsApp message to <name of person>`
 
 ![This is an image]('/../img/8.png)
 
 <hr>
+
 ###### Send Mail:
+
   - Command: `send mail to <name of person`
 
 ![This is an image]('/../img/3.png)
