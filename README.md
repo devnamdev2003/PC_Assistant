@@ -8,6 +8,7 @@ The virtual assistant is a general-purpose desktop-based application software, t
 >**Why did i make this project**
 
 In the current scenario, advancements in technologies are such that they can perform any task with the same effectiveness or can say more effectively than us. By making this project, we realized that the concept of AI in every field is decreasing human effort and saving time.
+
 >**Working**
 
 - PC Assistant can assist you by showing you the correct time, with the help of the command “what s the time”. 
@@ -20,7 +21,9 @@ In the current scenario, advancements in technologies are such that they can per
 - PC Assistant can send mail by using the command “Sends Mail To (Name of a Person)”
 - PC Assistant can send a message by using the command “Sends Message to (Name of a Person)”
 - PC Assistant can Lock, Restart, Shutdown your PC by using the command “Lock My PC / Shut down my PC / Restart My PC”
+- 
 >**Technology used**
+
 - Programming Language: Python
 - Code Editor: Visual Studio Code
 - Python libraries
