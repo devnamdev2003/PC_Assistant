@@ -58,7 +58,7 @@ In the current scenario, advancements in technologies are such that they can per
 
 ###### Starting:
 
-![This is an image]('/../img/1.png)
+![This is an image]('/PC_Assistant/img/1.png)
 
 <hr>
 
@@ -66,7 +66,7 @@ In the current scenario, advancements in technologies are such that they can per
 
   - Command: `What is the time`
 
-![This is an image]('/../img/5.png)
+![This is an image]('/PC_Assistant/img/5.png)
 
 <hr>
 
@@ -74,7 +74,7 @@ In the current scenario, advancements in technologies are such that they can per
 
   - Command: `what is the temperature of <place name>`
 
-![This is an image]('/../img/2.png)
+![This is an image]('/PC_Assistant/img/2.png)
 
 <hr>
 
@@ -82,7 +82,7 @@ In the current scenario, advancements in technologies are such that they can per
 
   - Command: `open <application name>`
 
-![This is an image]('/../img/4.png)
+![This is an image]('/PC_Assistant/img/4.png)
 
 <hr>
 
@@ -90,7 +90,7 @@ In the current scenario, advancements in technologies are such that they can per
 
   - Command: `search python on Wikipedia`
 
-![This is an image]('/../img/6.png)
+![This is an image]('/PC_Assistant/img/6.png)
 
 <hr>
 
@@ -98,7 +98,7 @@ In the current scenario, advancements in technologies are such that they can per
 
   - Command: `send text message to <name of person>`
 
-![This is an image]('/../img/7.png)
+![This is an image]('/PC_Assistant/img/7.png)
 
 <hr>
 
@@ -106,7 +106,7 @@ In the current scenario, advancements in technologies are such that they can per
 
   - Command: `send WhatsApp message to <name of person>`
 
-![This is an image]('/../img/8.png)
+![This is an image]('/PC_Assistant/img/8.png)
 
 <hr>
 
@@ -114,7 +114,7 @@ In the current scenario, advancements in technologies are such that they can per
 
   - Command: `send mail to <name of person`
 
-![This is an image]('/../img/3.png)
+![This is an image]('/PC_Assistant/img/3.png)
 
 <hr>
 
