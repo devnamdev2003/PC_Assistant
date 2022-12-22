@@ -1,0 +1,10 @@
+AppOpener
+beautifulsoup4
+colorama
+mss
+pyjokes
+pyttsx3
+pywhatkit
+requests
+send_mail
+wikipedia
